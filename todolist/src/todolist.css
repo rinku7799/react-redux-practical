@@ -1,0 +1,31 @@
+.textfile{
+    width: 300px;
+    height: 29px;
+    font-size: larger;
+}
+.btn{
+    height: 35px;
+    width: 90px;
+    background-color: rgb(224, 157, 157);
+    border: none;
+}
+
+.list{
+    display: inline;
+    font-size: larger;
+    font-weight: 400;
+}
+.btn1{
+    height: 25px;
+    width: 55px;  
+    background-color: rgb(221, 217, 217); 
+    border: none;
+}
+.container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 550px;
+    height: 500px;
+    padding: 20px;
+    margin-left: 30%;
+    margin-top: 30px;
+}
